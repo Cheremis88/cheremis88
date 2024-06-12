@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheremis88&layout=compact)](https://github.com/Cheremis88/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cheremis88&repo=zakrivayuschiy-teg-f)](https://github.com/Cheremis88/github-readme-stats)
 <!--
 **Cheremis88/cheremis88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
